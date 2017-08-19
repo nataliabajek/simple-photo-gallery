@@ -1,0 +1,22 @@
+.gallery-h1{
+	margin: 50px 0 40px 0;
+	text-align: center;
+}
+
+.gallery{
+	display: flex;
+	justify-content: center;
+	flex-flow: row wrap;
+	width: 50%;
+	margin: 0 auto;
+}
+
+.photo{
+	height: 100px;
+	margin: 10px 10px;
+}
+
+.popup{
+	position: absolute;
+	display: none;
+}
